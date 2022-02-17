@@ -1,6 +1,6 @@
 {
   "name": "gh-pages",
-  "homepage": "vaz-tiago.github.io/gh-pages",
+  "homepage": "https://vaz-tiago.github.io/gh-pages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
